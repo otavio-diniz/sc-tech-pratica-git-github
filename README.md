@@ -58,4 +58,5 @@ Essa publicação posterior não altera a finalidade histórica do exercício ne
 
 ---
 
-**Autor:** Otávio Diniz`r`n**Natureza:** prática acadêmica de Git/GitHub e portfólio.
+**Autor:** Otávio Diniz
+**Natureza:** prática acadêmica de Git/GitHub e portfólio.
